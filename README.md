@@ -1,11 +1,11 @@
 # Hover.css
 
-<a href="https://www.buymeacoffee.com/ianlunn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" width="217" height="51" ></a>
+<a href="https://www.buymeacoffee.com/Amir-Whasim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" width="217" height="51" ></a>
 
 A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
-[Demo](http://ianlunn.github.io/Hover)  |
-[Tutorial](http://ianlunn.co.uk/articles/hover-css-tutorial-introduction/)
+[Demo](http://Amir-Whasim.github.io/Hover-Sass)  |
+[Tutorial](http://Amir-Whasim.co.uk/articles/hover-css-tutorial-introduction/)
 
 ## Contents
 - [Download/Install](#downloadinstall)
@@ -28,13 +28,12 @@ A collection of CSS3 powered hover effects to be applied to links, buttons, logo
 - [Licenses](#licenses)
     - [Commercial License](#commercial-license)
     - [Open-Source License](#open-source-license)
-- [Hire Ian Lunn](#hire-ian-lunn)
 
 ## Download/Install
 
 - NPM: `npm install hover.css --save`
 - Bower: `bower install hover --save`
-- [Download Zip](https://github.com/IanLunn/Hover/archive/master.zip)
+- [Download Zip](https://github.com/Amir-Whasim/Hover-SASS/archive/master.zip)
 
 ## How To Use
 Hover.css can be used in a number of ways; either copy and paste the effect you'd like to use in your own stylesheet or reference the stylesheet. Then just add the class name of the effect to the element you'd like it applied to.
@@ -210,7 +209,7 @@ Sass/LESS are non-essential but can speed up development. Preprocess Sass/LESS w
 Sass/LESS is used in the Hover.css project to separate various CSS into specific files. Each effect is within its own file in the `effects` directory. Hover.css also uses the following `.scss` and `.less` files:
 
 ### _hacks
-Contains hacks (undesirable but usually necessary lines of code) applied to certain effects. [Hacks explained here](https://github.com/IanLunn/Hover/wiki/Hacks-Explained).
+Contains hacks (undesirable but usually necessary lines of code) applied to certain effects. [Hacks explained here](https://github.com/Amir-Whasim/Hover-SASS/wiki/Hacks-Explained).
 
 ### _mixins
 Contains `prefixed` and `keyframes` mixins that apply the necessary prefixes you specify in `_options.scss` / `_options.less` to properties and keyframes.
@@ -261,11 +260,11 @@ The `$includeClasses` / `@includeClasses` option by default is set to `true` and
 
 ## Contribute to Hover.css
 
-If you'd like to contribute your own effects, please see the [Contributing Guide](https://github.com/IanLunn/Hover/blob/master/CONTRIBUTING.md).
+If you'd like to contribute your own effects, please see the [Contributing Guide](https://github.com/Amir-Whasim/Hover-SASS/blob/master/CONTRIBUTING.md).
 
 ## Licenses
 
-Hover.css is made available under a free personal/open source or paid commercial licenses depending on your requirements. To compare licenses please visit the [Ian Lunn Design Limited Store](https://ianlunn.co.uk/store/licenses/) and [purchase a commercial license here](https://ianlunn.co.uk/store/hover-css/).
+Hover.css is made available under a free personal/open source or paid commercial licenses depending on your requirements. To compare licenses please visit the [Amir Whasim Design Limited Store](https://Amir Whasim.co.uk/store/licenses/) and [purchase a commercial license here](https://Amir Whasim.co.uk/store/hover-css/).
 
 ### Personal/Open Source
 
@@ -276,7 +275,7 @@ For personal/open source use, Hover.css is made available under a [MIT license](
 - Your modifications remain open-source
 - Free updates
 
-[Read full license](https://ianlunn.co.uk/store/licenses/personal/)
+[Read full license](https://Amir Whasim.co.uk/store/licenses/personal/)
 
 ### Commercial
 
@@ -289,7 +288,7 @@ For commercial use, Hover.css is made available under Commercial, Extended Comme
 - Your code is kept proprietary, to yourself
 - Free updates to the major version
 
-[Purchase](https://ianlunn.gumroad.com/l/hover-css-extended-commercial) | [Read full license](https://ianlunn.co.uk/store/licenses/commercial/)
+[Purchase](https://Amir Whasim.gumroad.com/l/hover-css-extended-commercial) | [Read full license](https://Amir Whasim.co.uk/store/licenses/commercial/)
 
 #### Extended Commercial License
 
@@ -300,20 +299,16 @@ For commercial use, Hover.css is made available under Commercial, Extended Comme
 
 *With the exception of applications that allow end users to produce separate applications. See the OEM Commercial License.
 
-[Purchase](https://ianlunn.gumroad.com/l/hover-css-commercial) | [Read full license](https://ianlunn.co.uk/store/licenses/extended-commercial/)
+[Purchase](https://Amir Whasim.gumroad.com/l/hover-css-commercial) | [Read full license](https://Amir Whasim.co.uk/store/licenses/extended-commercial/)
 
 #### OEM Commercial License
 
-Should your application enable end users to produce separate applications that incorporate Ian Lunn Design Limited's software, for example, a development toolkit, library, or application builder, you must obtain an OEM Commercial License. Please [contact us](https://ianlunn.co.uk/contact/) for more information about the OEM Commercial License.
+Should your application enable end users to produce separate applications that incorporate Amir Whasim Design Limited's software, for example, a development toolkit, library, or application builder, you must obtain an OEM Commercial License. Please [contact us](https://Amir Whasim.co.uk/contact/) for more information about the OEM Commercial License.
 
 ### MIT License (Pre v2.2.0 / 24th March 2017)
 
 Hover.css was previously made available under a MIT License for both commercial and non-commercial use. Anyone that obtained a MIT license for commercial use before v2.2.0 (24th March 2017) may continue to use Hover.css versions prior to v2.2.0 under that same license.
 
-If you'd like to upgrade to v2.2.0 or above, or would like to simply show your support for Hover.css (we'd much appreciate it!), please purchase an up-to-date commercial license. [Purchase a Commercial License](https://ianlunn.co.uk/store/hover-css/).
+If you'd like to upgrade to v2.2.0 or above, or would like to simply show your support for Hover.css (we'd much appreciate it!), please purchase an up-to-date commercial license. [Purchase a Commercial License](https://Amir Whasim.co.uk/store/hover-css/).
 
-## Hire Ian Lunn
 
-[Ian Lunn](http://ianlunn.co.uk) is a Freelance Front-end Developer and author of [CSS3 Foundations](http://css3foundations.com/).
-
-Hire [Ian](http://ianlunn.co.uk) for responsive websites, WordPress websites, JavaScript, animation, and optimization.
